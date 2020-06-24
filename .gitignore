@@ -1,0 +1,9 @@
+#忽略不需要存在云端的东西（#一般情况下代表注释，/表示不递归，只在）
+/node_modules
+
+/DS_Store
+
+/.vscode
+
+text.js
+
